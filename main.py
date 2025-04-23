@@ -6,7 +6,7 @@ from google import genai
 import re
 
 
-client = genai.Client(api_key="AIzaSyB6q0M_3EIsE3AR8QLjRTYyeQS7GpG1CFM")
+client = genai.Client(api_key="Your_gemini_Api")
 
 # Function to click on the icon
 def click_icon():
